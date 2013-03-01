@@ -5,3 +5,5 @@ creating new changes in feature/changes
 changing for develop branch
 
 feature/bugfix branch
+
+bugfix and develop branch

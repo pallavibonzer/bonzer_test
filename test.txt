@@ -5,3 +5,5 @@ master branch
 test
 
 hotfix
+
+bugfix
